@@ -3,3 +3,7 @@ git add git-begins
 git commit -m "commentaire"
 git push
 git pull
+
+git branch nomDeLaBranche
+git checkout nomDeLaBranche
+
